@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[PCBLAST.TXT]
+   Generated File[PCBLAST.LDP]
+   Generated File[PCBLAST.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:23:57 AM On 2/11/2023
