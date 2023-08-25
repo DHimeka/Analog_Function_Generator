@@ -1,4 +1,6 @@
 # Analog_Function_Generator
+
+## Introduction
 This is the project done during the third semester for the module EN2091 - Laboratory Practice and Projects.
 During the course of this project, Our team had the privilege of designing and developing a fully functional function generator that seamlessly incorporates essential features commonly found in laboratory-grade devices. With a clear focus on versatility and performance, we harnessed the potential of basic electronic components, including opamps, transistors, resistors, capacitors, and potentiometers, to achieve waveform generation and control with optimum precision.
 Through an extensive research and a meticulous design, we successfully utilized analog electronic calculations to generate sine, square, triangular, sawtooth, and PWM waveforms. We ensured accurate frequency control across the impressive range of 20Hz to 20kHz, empowering users to tailor the function generator to their specific experimental requirements.
