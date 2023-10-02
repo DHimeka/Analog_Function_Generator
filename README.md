@@ -57,7 +57,6 @@ The enclosure for the function generator was designed using Solidworks 2020, ens
 
 The project team encountered challenges with waveform distortions at high frequencies. Strategies to mitigate these distortions, including the use of high-quality components and minimizing wire resistance, were discussed.
 
-[Read out more]([link_to_full_project_report.pdf](https://medium.com/@didulathavishaplus/analog-function-generator-43a33d2a3289)https://medium.com/@didulathavishaplus/analog-function-generator-43a33d2a3289])
 
 
 
