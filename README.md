@@ -3,9 +3,7 @@
 This project is a fully functional function generator designed during the third semester for the module EN2091 - Laboratory Practice and Projects. It incorporates essential features commonly found in laboratory-grade devices, combining versatility with performance.
 
 ![Version](https://img.shields.io/badge/version-1.0-blue) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
-## Installation
 
-Instructions for replicating the project will be provided here, including any necessary prerequisites and setup steps.
 
 ## Usage/Examples
 
